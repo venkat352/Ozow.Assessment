@@ -13,4 +13,4 @@ Implemented the GameOfLifeBoard function which will accept Heigh, Width and MaxR
 
 
 
-Create a Unit Test project and implemented the test method to test AlphabaticOrder.
+Created a Unit Test project and implemented the test method to test AlphabaticOrder.
