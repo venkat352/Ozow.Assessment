@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ozow.Assessment", "Ozow.Assessment.csproj", "{C022A5C7-6D6E-4BFD-AD25-A5CA140A5A98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ozow.UnitTest", "..\Ozow.UnitTest\Ozow.UnitTest.csproj", "{0D87AE6B-673B-40EC-89E1-74C75F9A46A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C022A5C7-6D6E-4BFD-AD25-A5CA140A5A98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C022A5C7-6D6E-4BFD-AD25-A5CA140A5A98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C022A5C7-6D6E-4BFD-AD25-A5CA140A5A98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C022A5C7-6D6E-4BFD-AD25-A5CA140A5A98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D87AE6B-673B-40EC-89E1-74C75F9A46A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D87AE6B-673B-40EC-89E1-74C75F9A46A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D87AE6B-673B-40EC-89E1-74C75F9A46A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D87AE6B-673B-40EC-89E1-74C75F9A46A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D3BFA2FA-45B0-42CE-8396-75514560F4ED}
+	EndGlobalSection
+EndGlobal
