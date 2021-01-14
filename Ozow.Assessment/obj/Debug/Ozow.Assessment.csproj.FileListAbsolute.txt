@@ -1,0 +1,7 @@
+C:\Users\VenkatN\source\repos\Ozow.Assessment\bin\Debug\Ozow.Assessment.exe.config
+C:\Users\VenkatN\source\repos\Ozow.Assessment\bin\Debug\Ozow.Assessment.exe
+C:\Users\VenkatN\source\repos\Ozow.Assessment\bin\Debug\Ozow.Assessment.pdb
+C:\Users\VenkatN\source\repos\Ozow.Assessment\obj\Debug\Ozow.Assessment.csprojAssemblyReference.cache
+C:\Users\VenkatN\source\repos\Ozow.Assessment\obj\Debug\Ozow.Assessment.csproj.CoreCompileInputs.cache
+C:\Users\VenkatN\source\repos\Ozow.Assessment\obj\Debug\Ozow.Assessment.exe
+C:\Users\VenkatN\source\repos\Ozow.Assessment\obj\Debug\Ozow.Assessment.pdb
